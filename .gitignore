@@ -1,0 +1,7 @@
+.env
+venv/*
+.vscode/*
+init.sh
+velocidad_trp/__pycache__/*
+velocidad_trp.egg-info/*
+notebook/.ipynb_checkpoints/00-test-checkpoint.ipynb
