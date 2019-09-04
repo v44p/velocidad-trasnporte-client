@@ -6,7 +6,7 @@ Cliente para traer los datos de transporte.
 
 se debería buildear la imagen de docker y luego correr mediante 
 
-´´´
+```
 docker run -it -d --rm \
     -e CLIENT_ID=<cliente id> \
     -e CLIENT_SECRET=<client secret> \
@@ -17,6 +17,6 @@ docker run -it -d --rm \
     --name velocidad-client \
     velocidad-client
 
-´´´
+```
 
 
